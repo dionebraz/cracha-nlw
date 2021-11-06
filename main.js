@@ -1,7 +1,8 @@
 const changeLinks = {
   github: 'Dione-Braz',
   instagram: 'diihrox_',
-  twitter: 'Diihrox2'
+  twitter: 'Diihrox2',
+  facebook: 'maykbrito'
 }
 
 function createSocialMedia() {
