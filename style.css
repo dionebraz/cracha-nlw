@@ -79,3 +79,25 @@ ul {
   justify-content: center;
   margin-top: 64px;
 }
+
+i {
+  font-size: 1.5rem;
+  transition: .3s;
+}
+
+#socialMidias .icon {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  transition-duration: .3s;
+}
+
+.icon:hover {
+  background: rgba(0, 0, 0, 0.3);
+  box-shadow: 0 0 10px 2px #ff7d32;
+}
+
+i:hover {
+  transform: scale(1.3);
+  color: #FD8741;
+}
