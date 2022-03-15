@@ -42,6 +42,16 @@ main {
   position: absolute;
   top: -15px;
   z-index: 1;
+  animation: rotateLogo 6s linear infinite;
+}
+
+@keyframes rotateLogo {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
 }
 
 .avatar > img {

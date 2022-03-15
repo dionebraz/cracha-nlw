@@ -1,6 +1,6 @@
 const changeLinks = {
   github: 'Dione-Braz',
-  instagram: 'diihrox_',
+  instagram: 'dione__braz',
   twitter: 'Diihrox2',
   facebook: 'maykbrito'
 }
